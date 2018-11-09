@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	cout << "Checking" << endl;
     int n,p;
     StackType<int> s;
     StackType<int> s2;
